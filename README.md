@@ -2,6 +2,11 @@
 
 Welcome to the Comprehensive Probability and Statistics in Python repository by [Your Name]. This repository is a comprehensive resource for mastering probability and statistics concepts using the Python programming language. Whether you're a student, a data scientist, or a professional in the field, this repository is designed to enhance your understanding and application of probability and statistics in real-world scenarios.
 
+<img align="left" width="350" height="300"  src="images/ds1.png"  >
+<img align="center" width="400" height="250"  src="images/mathsandstat.jpeg"  >
+<img align="center" width="900" height="250"  src="images/mathimg1.png"  >
+
+
 ## Table of Contents
 
 - [Introduction](#introduction)
